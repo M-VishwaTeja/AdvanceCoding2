@@ -13,7 +13,7 @@ int main(){
     return 0;
 }
 
-2. Write a C program to find first and last digit of a number.
+***2. Write a C program to find first and last digit of a number.***
 
 #include <stdio.h>
 int main() {
@@ -31,7 +31,7 @@ int main() {
     return 0;
 }
 
-3. Write a C program to find sum of first and last digit of a number.
+***3. Write a C program to find sum of first and last digit of a number.***
 
 #include <stdio.h>
 int main() {
@@ -48,7 +48,7 @@ int main() {
     return 0;
 }
 
-4. Write a C program to swap first and last digits of a number.
+***4. Write a C program to swap first and last digits of a number.***
 
 #include <stdio.h>
 #include <math.h>
@@ -84,7 +84,7 @@ int main() {
     return 0;
 }
 
-5. Write a C program to find frequency of each digit in a given integer.
+***5. Write a C program to find frequency of each digit in a given integer.***
 
 #include <stdio.h>
 int main() {
@@ -108,7 +108,8 @@ int main() {
     return 0;
 }
 
-6. Write a C program to enter a number and print it in words.
+***6. Write a C program to enter a number and print it in words.***
+
 #include <stdio.h>
 
 void convertToWords(int n) {
@@ -198,7 +199,7 @@ int main() {
     return 0;
 }
 
-8.Write a C program to find two’s complement of a binary number.
+***8.Write a C program to find two’s complement of a binary number.***
 
 #include <stdio.h>
 #include <string.h>
@@ -245,7 +246,7 @@ int main() {
     return 0;
 }
 
-9.Write a C program to convert Decimal to Hexadecimal number system
+*** 9.Write a C program to convert Decimal to Hexadecimal number system ***
 
 #include <stdio.h>
 // Function to convert decimal to hexadecimal
